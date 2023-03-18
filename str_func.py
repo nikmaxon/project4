@@ -1,5 +1,7 @@
 def upper_text(text):
-
+    """
+    Добавил docstring
+    """
     return str.upper(text)
 
 
